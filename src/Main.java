@@ -12,10 +12,11 @@ public class Main {
         list.add("text1.1");
         list.add("text1.2");
         list.add("text1.3");
+        list.add("text1.5");
+        list.add("text2.5");
         for (String string : list) {
             System.out.println(string);
         }
-        list.add("text1.5");
 
     }
 
